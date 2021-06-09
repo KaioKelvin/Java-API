@@ -5,28 +5,27 @@ API JAVA utilizando com Spring boot onde o serviço permite registrar, consultar
 
 # Endpoints disponíveis:
 
-/course/    (GET, POST e PUT)
+**/course/**    (GET, POST e PUT)
 
-/course/{id}    (GET e DELETE)
+**/course/{id}**    (GET e DELETE)
 
 # Serviços
 
-Consultar cursos existentes:
+### Consultar cursos existentes:
 
-![image](https://user-images.githubusercontent.com/60151948/121388538-f0716880-c921-11eb-8725-d4df3444a619.png)
+![image](https://user-images.githubusercontent.com/60151948/121397904-2bc46500-c92b-11eb-899b-5a685d1361ca.png)
 
-Adicionar um curso:
+### Adicionar um curso:
 
-![image](https://user-images.githubusercontent.com/60151948/121388734-1c8ce980-c922-11eb-9a63-065645080ea9.png)
+![image](https://user-images.githubusercontent.com/60151948/121398096-5dd5c700-c92b-11eb-9f67-411ed8cc726b.png)
 
-Modificar um curso:
+### Modificar um curso:
+![image](https://user-images.githubusercontent.com/60151948/121398209-7d6cef80-c92b-11eb-8a45-62bf88e3cae8.png)
 
-![image](https://user-images.githubusercontent.com/60151948/121389002-552cc300-c922-11eb-8932-0368a58e9421.png)
+### Consultar curso por id
 
-Consultar curso por id
+![image](https://user-images.githubusercontent.com/60151948/121398306-98d7fa80-c92b-11eb-8ebc-5ccee14f7109.png)
 
-![image](https://user-images.githubusercontent.com/60151948/121389187-87d6bb80-c922-11eb-8976-177decedd521.png)
+### Deletar curso por id
 
-Deletar curso por id
-
-![image](https://user-images.githubusercontent.com/60151948/121389359-b2c10f80-c922-11eb-8caf-c52644f3edad.png)
+![image](https://user-images.githubusercontent.com/60151948/121398384-ab523400-c92b-11eb-806b-03d69fbc9df0.png)
