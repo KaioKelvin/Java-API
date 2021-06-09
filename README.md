@@ -6,6 +6,7 @@ API JAVA utilizando com Spring boot onde o serviço permite registrar, consultar
 # Endpoints disponíveis:
 
 /course/  //GET, POST e PUT
+
 /course/{id}  //GET e DELETE
 
 # Serviços
